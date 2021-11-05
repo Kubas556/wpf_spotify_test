@@ -82,8 +82,8 @@ namespace TestSpotifyServerAPI
             Dispatcher.Invoke(() => tokenBox.Text = token.ToString());
         }
 
-        private string _my_client_id = "e0efe7588bb24ab4ae3f91618d2e1568";
-        private string _my_client_secret = "d46590dc5e7f4fa7a852a4437990e013";
+        private string _my_client_id = "";
+        private string _my_client_secret = "";
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
