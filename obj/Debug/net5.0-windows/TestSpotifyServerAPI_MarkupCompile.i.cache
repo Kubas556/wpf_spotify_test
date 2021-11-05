@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 C:\Users\Jakub Sedlak\source\repos\TestSpotifyServerAPI\App.xaml
-11407045341
+2-303867282
 11288109489
-5-1978214027
+6-855549976
 200-2144108067
-MainWindow.xaml;
+MainWindow.xaml;ShowSongsWindow.xaml;
 
-False
+True
 
