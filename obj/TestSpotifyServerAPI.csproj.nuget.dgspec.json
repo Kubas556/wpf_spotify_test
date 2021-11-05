@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jakub Sedlak\\source\\repos\\TestSpotifyServerAPI\\TestSpotifyServerAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jakub Sedlak\\source\\repos\\SpotifyAPI_.NET_Framework\\SpotifyAPI_.NET_Framework.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jakub Sedlak\\source\\repos\\SpotifyAPI_.NET_Framework\\SpotifyAPI_.NET_Framework.csproj",
+        "projectName": "SpotifyAPI_.NET_Framework",
+        "projectPath": "C:\\Users\\Jakub Sedlak\\source\\repos\\SpotifyAPI_.NET_Framework\\SpotifyAPI_.NET_Framework.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Jakub Sedlak\\source\\repos\\TestSpotifyServerAPI\\TestSpotifyServerAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jakub Sedlak\\source\\repos\\TestSpotifyServerAPI\\TestSpotifyServerAPI.csproj",
+        "projectName": "TestSpotifyServerAPI",
+        "projectPath": "C:\\Users\\Jakub Sedlak\\source\\repos\\TestSpotifyServerAPI\\TestSpotifyServerAPI.csproj",
+        "packagesPath": "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jakub Sedlak\\source\\repos\\TestSpotifyServerAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jakub Sedlak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Jakub Sedlak\\source\\repos\\SpotifyAPI_.NET_Framework\\SpotifyAPI_.NET_Framework.csproj": {
+                "projectPath": "C:\\Users\\Jakub Sedlak\\source\\repos\\SpotifyAPI_.NET_Framework\\SpotifyAPI_.NET_Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Web.WebView2": {
+              "target": "Package",
+              "version": "[1.0.902.49, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

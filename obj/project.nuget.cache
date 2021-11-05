@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ui0BkbohsVH9wsGrJuSbxIZDrrJDx8nuwdgleOK0zKWSAUSQYEqYCdX/o2Pw/WF9u8OqqRrMN9wYIsB8BuP0fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jakub Sedlak\\source\\repos\\TestSpotifyServerAPI\\TestSpotifyServerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\flurl\\3.0.2\\flurl.3.0.2.nupkg.sha512",
+    "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\flurl.http\\3.2.0\\flurl.http.3.2.0.nupkg.sha512",
+    "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\microsoft.web.webview2\\1.0.902.49\\microsoft.web.webview2.1.0.902.49.nupkg.sha512",
+    "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Jakub Sedlak\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
